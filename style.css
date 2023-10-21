@@ -1,0 +1,20 @@
+.heading{
+    background-color: orchid;
+    border-radius: 5px;
+    width: 1200px;
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+canvas {
+    border: 5px dashed darkred;
+    border-radius: 25px;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
